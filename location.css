@@ -1,0 +1,142 @@
+.username
+{
+    margin-left: 570px;
+    margin-top: 20px;
+}
+.logo
+{
+    height: 120px;
+    width: 340px;
+    margin-left: auto;
+    margin-top: auto;
+}
+.serch
+{
+    margin-top: auto;
+    margin-left: -10px;
+}
+.form2
+{
+    margin-left: 600px;
+}
+.form2_location
+{
+    margin-left: 70px;
+}
+.form2_large
+{
+    margin-left: 70px;
+    width: 78px;
+}
+.gundong
+{
+    width: 370px;
+    height: 178px;
+    overflow:hidden;
+    border:solid 1px black;
+    margin-left: 101px;
+    position: absolute;
+}
+.mar
+{
+    position: absolute;
+    width:100px;
+    height: 180px;
+    border:solid 1px black;
+}
+.gonggao
+{
+    position: absolute;
+    border: 1px solid black;
+    height: 180px;
+    width: 100px;
+    margin-top: 181px;
+}
+.gonggao2
+{
+    position: absolute;
+    width:680px;
+    height: 180px;
+    border:solid 1px;
+    margin-top: 181px;
+    margin-left: 101px;
+}
+.xiaogonggao
+{
+    margin-left: 473px;
+    width: 308px;
+    height: 179px;
+    position: absolute;
+    border: 1px solid black;
+}
+.zuihou
+{
+    float: right;
+    border: 1px solid black;
+    width:400px;
+    height:400px;
+}
+.button1
+{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.button2
+{
+    margin-top: 10%;
+    margin-left: 18%;
+}
+.button3
+{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.word
+{
+    font-size:20px;
+    text-indent: 2em;
+    word-spacing:3px;
+    letter-spacing: 0px;
+    font-family: 宋体;
+}
+.word2
+{
+    margin-top: 30%;
+    margin-left: 30%;
+    font-size: 44px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+ul, ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#tab{
+    overflow: hidden;/*解决塌陷问题*/
+}
+#tab li{
+    width: 120px;
+    height: 30px;
+    background: white;
+    float: left;
+    margin-right: 5px;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;/*鼠标样式*/
+}
+#tab .selected{
+}
+#content{
+    height: 370px;
+    background: white;
+    border-top: 1px solid #000;
+}
+.gengxin
+{
+    font-size: 26px;
+    margin-left: 10%;
+}
